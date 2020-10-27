@@ -2,9 +2,9 @@
 
 ### Connect with me:
 
- <img align="right" alt="akirayuki.it" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> Website:
+ <img align="left" alt="akirayuki.it" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> Website:
 <br />
- <img align="right" alt="https://youtube.com/ak1r4yuk1 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> Youtube:
+ <img align="left" alt="https://youtube.com/ak1r4yuk1 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> Youtube:
 
 ## And Telegram:
 
