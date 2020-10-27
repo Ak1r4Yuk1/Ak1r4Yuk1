@@ -8,6 +8,6 @@
 
 ## And Telegram:
 
-##<a href="https://t.me/Ak1r4_Yuk1 alt="Telegram">Click here to write me..</a>
+<a href="https://t.me/Ak1r4_Yuk1 alt="Telegram">Click here to write me..</a>
 
 <br />
