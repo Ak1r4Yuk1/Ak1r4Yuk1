@@ -10,6 +10,11 @@
 
 ➡️ [Socials:]
 
+Website:
 [website]: https://akirayuki.it
+
+Youtube:
 [youtube]: https://youtube.com/ak1r4yuk1
+
+Telegram:
 [telegram]: https://t.me/Ak1r4_Yuk1
