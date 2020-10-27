@@ -6,10 +6,10 @@
 [<img align="left" alt="Ak1r4 Yuk1 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 Website:
-[website]: https://akirayuki.it
+.[website]: https://akirayuki.it
 
 Youtube:
-[youtube]: https://youtube.com/ak1r4yuk1
+.[youtube]: https://youtube.com/ak1r4yuk1
 
 Telegram:
-[telegram]: https://t.me/Ak1r4_Yuk1
+.[telegram]: https://t.me/Ak1r4_Yuk1
