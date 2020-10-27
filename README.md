@@ -1,4 +1,4 @@
-### Hi there, I'm Ak1r4 Yuk1 - aka [Akira] 👋
+### Hi there, I'm Ak1r4 Yuk1 - aka [Akira][website] 👋
 
 ### Connect with me:
 
