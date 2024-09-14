@@ -10,10 +10,11 @@
 
 <h2>🌳 Connect with me:</h2>
 <p style="display: inline-block;" align="left">
-  
+  <center>
   <a href="https://t.me/Ak1r4_Yuk1">
     <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" />
   </a>
+  </center>
 </p>
 
 <h2>🔧 Languages and Tools:</h2>
