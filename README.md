@@ -1,7 +1,7 @@
 **About Me!**
 
 
-- 👨🏽‍💻 Akira, 27 years old
+- 👨🏽‍💻 Akira, 28 years old
 - 🖥️ Interested in Programming & Web Application Security
 - 🌱 Currently learning <a href="https://go.dev/">Go</a>
 - 💭 Living the Indie Hacker Dream
