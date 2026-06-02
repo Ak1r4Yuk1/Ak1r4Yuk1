@@ -70,15 +70,6 @@ philosophy:
 
 <div align="center">
 
-```text
-██████╗ ███████╗██████╗     ████████╗███████╗ █████╗ ███╗   ███╗
-██╔══██╗██╔════╝██╔══██╗    ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║
-██████╔╝█████╗  ██║  ██║       ██║   █████╗  ███████║██╔████╔██║
-██╔══██╗██╔══╝  ██║  ██║       ██║   ██╔══╝  ██╔══██║██║╚██╔╝██║
-██║  ██║███████╗██████╔╝       ██║   ███████╗██║  ██║██║ ╚═╝ ██║
-╚═╝  ╚═╝╚══════╝╚═════╝        ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
-```
-
 </div>
 
 <table align="center">
@@ -98,101 +89,72 @@ philosophy:
 
 # 🚀 Featured Projects
 
+```bash
+┌──(ak1r4@github)-[~/projects]
+│
+├─ 📺 AstraTV
+│  ├─ Android IPTV player
+│  ├─ Focus: clean UX, streaming, performance
+│  └─ Repo: github.com/Ak1r4Yuk1/AstraTV
+│
+├─ 🖥️ StreamingCommunityCLI
+│  ├─ Terminal-first streaming utility
+│  ├─ Focus: CLI workflows, automation, speed
+│  └─ Repo: github.com/Ak1r4Yuk1/StreamingCommunityCLI
+│
+├─ 🔥 Iptables GUI
+│  ├─ Linux firewall management interface
+│  ├─ Focus: networking, firewall rules, sysadmin tooling
+│  └─ Repo: github.com/Ak1r4Yuk1/Iptables-GUI
+│
+└─ 🤖 Web2App
+   ├─ Website to Android APK converter
+   ├─ Focus: Android, WebView, packaging
+   └─ Repo: github.com/Ak1r4Yuk1/Web2App
+```
+
 <div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📺 AstraTV
-IPTV player focused on a clean Android experience.
 
 <a href="https://github.com/Ak1r4Yuk1/AstraTV">
-<img src="https://img.shields.io/badge/View%20Project-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/AstraTV-Open-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
 </a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🖥️ StreamingCommunityCLI
-Terminal-first streaming utility for fast CLI workflows.
 
 <a href="https://github.com/Ak1r4Yuk1/StreamingCommunityCLI">
-<img src="https://img.shields.io/badge/View%20Project-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/StreamingCLI-Open-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
 </a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🔥 Iptables GUI
-Linux firewall management with a visual interface.
 
 <a href="https://github.com/Ak1r4Yuk1/Iptables-GUI">
-<img src="https://img.shields.io/badge/View%20Project-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Iptables_GUI-Open-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
 </a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Web2App
-Convert web projects into Android APKs.
 
 <a href="https://github.com/Ak1r4Yuk1/Web2App">
-<img src="https://img.shields.io/badge/View%20Project-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<a href="https://github.com/Ak1r4Yuk1?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20all%20repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-</a>
-
-</div>
-
----
-
-# 📡 Connect
-
-<div align="center">
-
-<a href="https://t.me/Ak1r4_Yuk1">
-<img src="https://img.shields.io/badge/Telegram-@Ak1r4__Yuk1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web2App-Open-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Ak1r4Yuk1&style=flat-square&color=58A6FF&label=PROFILE+VIEWS"/>
+<a href="https://github.com/Ak1r4Yuk1?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_All_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
+</a>
 
 </div>
 
 ---
+# 📡 Connect
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Establishing+secure+connection...;Session+authenticated.;Welcome+to+my+network."/>
 
-### `root@ak1r4:~#`
+<br><br>
 
-**Talk is cheap.**  
-**Show me the code.**
+<a href="https://t.me/Ak1r4_Yuk1">
+  <img src="https://img.shields.io/badge/Telegram-Ak1r4__Yuk1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117"/>
+</a>
 
-<sub>Infrastructure • Offensive Security • Automation</sub>
+<br><br>
 
-</td>
-</tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=Ak1r4Yuk1&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
 
-<br>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:58A6FF,100:0D1117" width="100%"/>
-
-</div>
